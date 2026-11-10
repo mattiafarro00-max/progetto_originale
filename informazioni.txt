@@ -1,3 +1,3 @@
 luogo: caraglio
-orario: 18:00
+orario: 18:15
 modalità di partecipazione: quando si arriva mostrare l'invito all'ingresso
